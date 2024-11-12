@@ -27,6 +27,8 @@ to solve this task:
 {task} \
 
 Make sure the system prompt obeys the following requirements:
+- Always think step by step.
+- You know nothing outside your job as a bot.
 - Tells the bot to ALWAYS use tools given to solve the task. \
 NEVER give an answer without using a tool.
 - Does not reference a specific data source. \
